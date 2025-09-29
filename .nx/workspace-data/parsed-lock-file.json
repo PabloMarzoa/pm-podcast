@@ -1647,6 +1647,15 @@
         "hash": "sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A=="
       }
     },
+    "npm:emoji-regex@10.5.0": {
+      "type": "npm",
+      "name": "npm:emoji-regex@10.5.0",
+      "data": {
+        "version": "10.5.0",
+        "packageName": "emoji-regex",
+        "hash": "sha512-lb49vf1Xzfx080OKA0o6l8DQQpV+6Vg95zyCJX9VB/BqKYlhG7N4wgROUUHRA+ZPUefLnteQOad7z1kT2bV7bg=="
+      }
+    },
     "npm:string-width@5.1.2": {
       "type": "npm",
       "name": "npm:string-width@5.1.2",
@@ -1654,6 +1663,24 @@
         "version": "5.1.2",
         "packageName": "string-width",
         "hash": "sha512-HnLOCR3vjcY8beoNLtcjZ5/nxn2afmME6lhrDrebokqMap+XbeW8n9TXpPDOqdGK5qcI3oT0GKTW6wC7EMiVqA=="
+      }
+    },
+    "npm:string-width@8.1.0": {
+      "type": "npm",
+      "name": "npm:string-width@8.1.0",
+      "data": {
+        "version": "8.1.0",
+        "packageName": "string-width",
+        "hash": "sha512-Kxl3KJGb/gxkaUMOjRsQ8IrXiGW75O4E3RPjFIINOVH8AMl2SQ/yWdTzWwF3FevIX9LcMAjJW+GRwAlAbTSXdg=="
+      }
+    },
+    "npm:string-width@7.2.0": {
+      "type": "npm",
+      "name": "npm:string-width@7.2.0",
+      "data": {
+        "version": "7.2.0",
+        "packageName": "string-width",
+        "hash": "sha512-tsaTIkKW9b4N+AEj+SVA+WhJzV7/zMhcSu78mLKWSk7cXMOSHsBKFWUs0fWwq8QyK3MgJBQRX6Gbi4kYbdvGkQ=="
       }
     },
     "npm:string-width": {
@@ -1690,6 +1717,15 @@
         "version": "8.1.0",
         "packageName": "wrap-ansi",
         "hash": "sha512-si7QWI6zUMq56bESFvagtmzMdGOtoxfR+Sez11Mobfc7tm+VkUckk9bW2UeffTGVUbOksxmSw0AA2gs8g71NCQ=="
+      }
+    },
+    "npm:wrap-ansi@9.0.2": {
+      "type": "npm",
+      "name": "npm:wrap-ansi@9.0.2",
+      "data": {
+        "version": "9.0.2",
+        "packageName": "wrap-ansi",
+        "hash": "sha512-42AtmgqjV+X1VpdOfyTGOYRi0/zsoLqtXQckTmqTeybT+BDIbM/Guxo7x3pE2vtpr1ok6xRqM9OpBe+Jyoqyww=="
       }
     },
     "npm:wrap-ansi@6.2.0": {
@@ -3393,6 +3429,15 @@
         "hash": "sha512-U7VdrJFnJgo4xjrHpTzu0yrHPGImdsmD95ZlgYSEajAn2JKzDhDTPG9kBTefmObL2w/ngeZnilk+OV9CG3d7UA=="
       }
     },
+    "npm:commander@14.0.1": {
+      "type": "npm",
+      "name": "npm:commander@14.0.1",
+      "data": {
+        "version": "14.0.1",
+        "packageName": "commander",
+        "hash": "sha512-2JkV3gUZUVrbNA+1sjBOYLsMZ5cEEl8GTFP2a4AVz5hvasAMCQ1D2l2le/cX+pV4N6ZU17zjUahLpIXRrnWL8A=="
+      }
+    },
     "npm:commander@7.2.0": {
       "type": "npm",
       "name": "npm:commander@7.2.0",
@@ -4626,6 +4671,15 @@
         "hash": "sha512-gKXj5ALrKWQLsYG9jlTRmR/xKluxHV+Z9QEwNIgCfM1/uwPMCuzVVnh5mwTd+OuBZcwSIMbqssNWRm1lE51QaQ=="
       }
     },
+    "npm:ansi-escapes@7.1.1": {
+      "type": "npm",
+      "name": "npm:ansi-escapes@7.1.1",
+      "data": {
+        "version": "7.1.1",
+        "packageName": "ansi-escapes",
+        "hash": "sha512-Zhl0ErHcSRUaVfGUeUdDuLgpkEo8KIFjB4Y9uAc46ScOpdDiU1Dbyplh7qWJeJ/ZHpbyMSM26+X3BySgnIz40Q=="
+      }
+    },
     "npm:type-fest@0.21.3": {
       "type": "npm",
       "name": "npm:type-fest@0.21.3",
@@ -5490,6 +5544,15 @@
         "hash": "sha512-I/zHAwsKf9FqGoXM4WWRACob9+SNukZTd94DWF57E4toouRulbCxcUh6RKUEOQlYTHJnzkPMySvPNaaSLNfLZw=="
       }
     },
+    "npm:cli-cursor@5.0.0": {
+      "type": "npm",
+      "name": "npm:cli-cursor@5.0.0",
+      "data": {
+        "version": "5.0.0",
+        "packageName": "cli-cursor",
+        "hash": "sha512-aCj4O5wKyszjMmDT4tZj93kxyydN/K5zPWSCe6/0AV/AA1pqe5ZBIw0a2ZfPQV7lL5/yb5HsUreJ6UFAF1tEQw=="
+      }
+    },
     "npm:cli-spinners": {
       "type": "npm",
       "name": "npm:cli-spinners",
@@ -5515,6 +5578,15 @@
         "version": "2.1.0",
         "packageName": "cli-truncate",
         "hash": "sha512-n8fOixwDD6b/ObinzTrp1ZKFzbgvKZvuz/TvejnLn1aQfC6r52XEx85FmuC+3HI+JM7coBRXUvNqEU2PHVrHpg=="
+      }
+    },
+    "npm:cli-truncate@5.1.0": {
+      "type": "npm",
+      "name": "npm:cli-truncate@5.1.0",
+      "data": {
+        "version": "5.1.0",
+        "packageName": "cli-truncate",
+        "hash": "sha512-7JDGG+4Zp0CsknDCedl0DYdaeOhc46QNpXi3NLQblkZpXXgA6LncLDUUyvrjSvZeF3VRQa+KiMGomazQrC1V8g=="
       }
     },
     "npm:cliui": {
@@ -6606,6 +6678,15 @@
         "hash": "sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A=="
       }
     },
+    "npm:environment": {
+      "type": "npm",
+      "name": "npm:environment",
+      "data": {
+        "version": "1.1.0",
+        "packageName": "environment",
+        "hash": "sha512-xUtoPkMggbz0MPyPiIWr1Kp4aeWJjDZ6SMvURhimjdZgsRuDplF5/s9hcgGhyXMhs+6vpnuoiZ2kFiu3FMnS8Q=="
+      }
+    },
     "npm:error-ex": {
       "type": "npm",
       "name": "npm:error-ex",
@@ -7063,6 +7144,15 @@
         "version": "4.0.7",
         "packageName": "eventemitter3",
         "hash": "sha512-8guHBZCwKnFhYdHr2ysuRWErTwhoN2X8XELRlrRwpmfeY2jjuUN4taQMsULKUVo1K4DvZl+0pgfyoysHxvmvEw=="
+      }
+    },
+    "npm:eventemitter3@5.0.1": {
+      "type": "npm",
+      "name": "npm:eventemitter3@5.0.1",
+      "data": {
+        "version": "5.0.1",
+        "packageName": "eventemitter3",
+        "hash": "sha512-GWkBvjiSZK87ELrYOSESUYeVIc9mvLLf/nXalMOS5dYrgZq9o5OVkbZAVM06CVxYsCwH9BDZFPlQTlPA1j4ahA=="
       }
     },
     "npm:events": {
@@ -7677,6 +7767,15 @@
         "hash": "sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg=="
       }
     },
+    "npm:get-east-asian-width": {
+      "type": "npm",
+      "name": "npm:get-east-asian-width",
+      "data": {
+        "version": "1.4.0",
+        "packageName": "get-east-asian-width",
+        "hash": "sha512-QZjmEOC+IT1uk6Rx0sX22V6uHWVwbdbxf1faPqJ1QhLdGgsRGCZoyaQBm/piRdJy/D2um6hM1UP7ZEeQ4EkP+Q=="
+      }
+    },
     "npm:get-intrinsic": {
       "type": "npm",
       "name": "npm:get-intrinsic",
@@ -8109,6 +8208,15 @@
         "hash": "sha512-dFcAjpTQFgoLMzC2VwU+C/CbS7uRL0lWmxDITmqm7C+7F0Odmj6s9l6alZc6AELXhrnggM2CeWSXHGOdX2YtwA=="
       }
     },
+    "npm:husky": {
+      "type": "npm",
+      "name": "npm:husky",
+      "data": {
+        "version": "9.1.7",
+        "packageName": "husky",
+        "hash": "sha512-5gs5ytaNjBrh5Ow3zrvdUUY+0VxIuWVL4i9irt6friV+BqdCfmV11CQTWMiBYWHbXhco+J1kHfTOUkePhCDvMA=="
+      }
+    },
     "npm:icss-replace-symbols": {
       "type": "npm",
       "name": "npm:icss-replace-symbols",
@@ -8368,6 +8476,15 @@
         "version": "3.0.0",
         "packageName": "is-fullwidth-code-point",
         "hash": "sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg=="
+      }
+    },
+    "npm:is-fullwidth-code-point@5.1.0": {
+      "type": "npm",
+      "name": "npm:is-fullwidth-code-point@5.1.0",
+      "data": {
+        "version": "5.1.0",
+        "packageName": "is-fullwidth-code-point",
+        "hash": "sha512-5XHYaSyiqADb4RnZ1Bdad6cPp8Toise4TzEjcOYDHZkTCbKgiUl7WTUCpNWHuxmDt91wnsZBc9xinNzopv3JMQ=="
       }
     },
     "npm:is-generator-function": {
@@ -9126,6 +9243,24 @@
         "hash": "sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg=="
       }
     },
+    "npm:lint-staged": {
+      "type": "npm",
+      "name": "npm:lint-staged",
+      "data": {
+        "version": "16.2.3",
+        "packageName": "lint-staged",
+        "hash": "sha512-1OnJEESB9zZqsp61XHH2fvpS1es3hRCxMplF/AJUDa8Ho8VrscYDIuxGrj3m8KPXbcWZ8fT9XTMUhEQmOVKpKw=="
+      }
+    },
+    "npm:listr2@9.0.4": {
+      "type": "npm",
+      "name": "npm:listr2@9.0.4",
+      "data": {
+        "version": "9.0.4",
+        "packageName": "listr2",
+        "hash": "sha512-1wd/kpAdKRLwv7/3OKC8zZ5U8e/fajCfWMxacUvB79S5nLrYGPtUI/8chMQhn3LQjsRVErTb9i1ECAwW0ZIHnQ=="
+      }
+    },
     "npm:listr2": {
       "type": "npm",
       "name": "npm:listr2",
@@ -9133,6 +9268,87 @@
         "version": "3.14.0",
         "packageName": "listr2",
         "hash": "sha512-TyWI8G99GX9GjE54cJ+RrNMcIFBfwMPxc3XTFiAYGN4s10hWROGtOg7+O6u6LE3mNkyld7RSLE6nrKBvTfcs3g=="
+      }
+    },
+    "npm:log-update@6.1.0": {
+      "type": "npm",
+      "name": "npm:log-update@6.1.0",
+      "data": {
+        "version": "6.1.0",
+        "packageName": "log-update",
+        "hash": "sha512-9ie8ItPR6tjY5uYJh8K/Zrv/RMZ5VOlOWvtZdEHYSTFKZfIBPQa9tOAEeAWhd+AnIneLJ22w5fjOYtoutpWq5w=="
+      }
+    },
+    "npm:log-update": {
+      "type": "npm",
+      "name": "npm:log-update",
+      "data": {
+        "version": "4.0.0",
+        "packageName": "log-update",
+        "hash": "sha512-9fkkDevMefjg0mmzWFBW8YkFP91OrizzkW3diF7CpG+S2EYdy4+TVfGwz1zeF8x7hCx1ovSPTOE9Ngib74qqUg=="
+      }
+    },
+    "npm:onetime@7.0.0": {
+      "type": "npm",
+      "name": "npm:onetime@7.0.0",
+      "data": {
+        "version": "7.0.0",
+        "packageName": "onetime",
+        "hash": "sha512-VXJjc87FScF88uafS3JllDgvAm+c/Slfz06lorj2uAY34rlUu0Nt+v8wreiImcrgAjjIHp1rXpTDlLOGw29WwQ=="
+      }
+    },
+    "npm:onetime": {
+      "type": "npm",
+      "name": "npm:onetime",
+      "data": {
+        "version": "5.1.2",
+        "packageName": "onetime",
+        "hash": "sha512-kbpaSSGJTWdAY5KPVeMOKXSrPtr8C8C7wodJbcsd51jRnmD+GZu8Y0VoU6Dm5Z4vWr0Ig/1NKuWRKf7j5aaYSg=="
+      }
+    },
+    "npm:restore-cursor@5.1.0": {
+      "type": "npm",
+      "name": "npm:restore-cursor@5.1.0",
+      "data": {
+        "version": "5.1.0",
+        "packageName": "restore-cursor",
+        "hash": "sha512-oMA2dcrw6u0YfxJQXm342bFKX/E4sG9rbTzO9ptUcR/e8A33cHuvStiYOwH7fszkZlZ1z/ta9AAoPk2F4qIOHA=="
+      }
+    },
+    "npm:restore-cursor": {
+      "type": "npm",
+      "name": "npm:restore-cursor",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "restore-cursor",
+        "hash": "sha512-l+sSefzHpj5qimhFSE5a8nufZYAM3sBSVMAPtYkmC+4EH2anSGaEMXSD0izRQbu9nfyQ9y5JrVmp7E8oZrUjvA=="
+      }
+    },
+    "npm:slice-ansi@7.1.2": {
+      "type": "npm",
+      "name": "npm:slice-ansi@7.1.2",
+      "data": {
+        "version": "7.1.2",
+        "packageName": "slice-ansi",
+        "hash": "sha512-iOBWFgUX7caIZiuutICxVgX1SdxwAVFFKwt1EvMYYec/NWO5meOJ6K5uQxhrYBdQJne4KxiqZc+KptFOWFSI9w=="
+      }
+    },
+    "npm:slice-ansi@4.0.0": {
+      "type": "npm",
+      "name": "npm:slice-ansi@4.0.0",
+      "data": {
+        "version": "4.0.0",
+        "packageName": "slice-ansi",
+        "hash": "sha512-qMCMfhY040cVHT43K9BFygqYbUPFZKHOg7K73mtTWJRb8pyP3fzf4Ixd5SzdEJQ6MRUg/WBnOLxghZtKKurENQ=="
+      }
+    },
+    "npm:slice-ansi": {
+      "type": "npm",
+      "name": "npm:slice-ansi",
+      "data": {
+        "version": "3.0.0",
+        "packageName": "slice-ansi",
+        "hash": "sha512-pSyv7bSTC7ig9Dcgbw9AuRNUb5k5V6oDudjZoMBSr13qpLBG7tB+zgCkARjq7xIUgdz5P1Qe8u+rSGdouOOIyQ=="
       }
     },
     "npm:loader-runner": {
@@ -9223,33 +9439,6 @@
         "version": "4.1.0",
         "packageName": "log-symbols",
         "hash": "sha512-8XPvpAA8uyhfteu8pIvQxpJZ7SYYdpUivZpGy6sFsBuKRY/7rQGavedeB8aK+Zkyq6upMFVL/9AW6vOYzfRyLg=="
-      }
-    },
-    "npm:log-update": {
-      "type": "npm",
-      "name": "npm:log-update",
-      "data": {
-        "version": "4.0.0",
-        "packageName": "log-update",
-        "hash": "sha512-9fkkDevMefjg0mmzWFBW8YkFP91OrizzkW3diF7CpG+S2EYdy4+TVfGwz1zeF8x7hCx1ovSPTOE9Ngib74qqUg=="
-      }
-    },
-    "npm:slice-ansi@4.0.0": {
-      "type": "npm",
-      "name": "npm:slice-ansi@4.0.0",
-      "data": {
-        "version": "4.0.0",
-        "packageName": "slice-ansi",
-        "hash": "sha512-qMCMfhY040cVHT43K9BFygqYbUPFZKHOg7K73mtTWJRb8pyP3fzf4Ixd5SzdEJQ6MRUg/WBnOLxghZtKKurENQ=="
-      }
-    },
-    "npm:slice-ansi": {
-      "type": "npm",
-      "name": "npm:slice-ansi",
-      "data": {
-        "version": "3.0.0",
-        "packageName": "slice-ansi",
-        "hash": "sha512-pSyv7bSTC7ig9Dcgbw9AuRNUb5k5V6oDudjZoMBSr13qpLBG7tB+zgCkARjq7xIUgdz5P1Qe8u+rSGdouOOIyQ=="
       }
     },
     "npm:log4js": {
@@ -9441,6 +9630,15 @@
         "hash": "sha512-OqbOk5oEQeAZ8WXWydlu9HJjz9WVdEIvamMCcXmuqUYjTknH/sqsWvhQ3vgwKFRR1HpjvNBKQ37nbJgYzGqGcg=="
       }
     },
+    "npm:mimic-function": {
+      "type": "npm",
+      "name": "npm:mimic-function",
+      "data": {
+        "version": "5.0.1",
+        "packageName": "mimic-function",
+        "hash": "sha512-VP79XUPxV2CigYP3jWwAUFSku2aKqBH7uTAapFWCBqutsbmDo96KY5o8uh6U+/YSIn5OxJnXp73beVkpqMIGhA=="
+      }
+    },
     "npm:mini-svg-data-uri": {
       "type": "npm",
       "name": "npm:mini-svg-data-uri",
@@ -9475,6 +9673,15 @@
         "version": "2.0.1",
         "packageName": "mrmime",
         "hash": "sha512-Y3wQdFg2Va6etvQ5I82yUhGdsKrcYox6p7FfL1LbK2J4V01F9TGlepTIhnK24t7koZibmg82KGglhA1XK5IsLQ=="
+      }
+    },
+    "npm:nano-spawn": {
+      "type": "npm",
+      "name": "npm:nano-spawn",
+      "data": {
+        "version": "1.0.3",
+        "packageName": "nano-spawn",
+        "hash": "sha512-jtpsQDetTnvS2Ts1fiRdci5rx0VYws5jGyC+4IYOTnIQ/wwdf6JdomlHBwqC3bJYOvaKu0C2GSZ1A60anrYpaA=="
       }
     },
     "npm:nanoid": {
@@ -9709,15 +9916,6 @@
         "version": "1.4.0",
         "packageName": "once",
         "hash": "sha512-lNaJgI+2Q5URQBkccEKHTQOPaXdUxnZZElQTZY0MFUAuaEqe1E+Nyvgdz/aIyNi6Z9MzO5dv1H8n58/GELp3+w=="
-      }
-    },
-    "npm:onetime": {
-      "type": "npm",
-      "name": "npm:onetime",
-      "data": {
-        "version": "5.1.2",
-        "packageName": "onetime",
-        "hash": "sha512-kbpaSSGJTWdAY5KPVeMOKXSrPtr8C8C7wodJbcsd51jRnmD+GZu8Y0VoU6Dm5Z4vWr0Ig/1NKuWRKf7j5aaYSg=="
       }
     },
     "npm:open": {
@@ -9988,6 +10186,15 @@
         "version": "1.1.1",
         "packageName": "picocolors",
         "hash": "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="
+      }
+    },
+    "npm:pidtree": {
+      "type": "npm",
+      "name": "npm:pidtree",
+      "data": {
+        "version": "0.6.0",
+        "packageName": "pidtree",
+        "hash": "sha512-eG2dWTVw5bzqGRztnHExczNxt5VGsE6OwTeCG3fdUf9KBsZzO3R5OIIIzWR+iZA0NtZ+RDVdaoE2dK1cn6jH4g=="
       }
     },
     "npm:pirates": {
@@ -10746,15 +10953,6 @@
         "hash": "sha512-40yHxbNcl2+rzXvZuVkrYohathsSJlMTXKryG5y8uciHv1+xDLHQpgjG64JUO9nrEq2jGLH6IZ8BcZyw3wrweg=="
       }
     },
-    "npm:restore-cursor": {
-      "type": "npm",
-      "name": "npm:restore-cursor",
-      "data": {
-        "version": "3.1.0",
-        "packageName": "restore-cursor",
-        "hash": "sha512-l+sSefzHpj5qimhFSE5a8nufZYAM3sBSVMAPtYkmC+4EH2anSGaEMXSD0izRQbu9nfyQ9y5JrVmp7E8oZrUjvA=="
-      }
-    },
     "npm:reusify": {
       "type": "npm",
       "name": "npm:reusify",
@@ -11230,6 +11428,15 @@
         "version": "1.3.0",
         "packageName": "string_decoder",
         "hash": "sha512-hkRX8U1WjJFd8LsDJ2yQ/wWWxaopEsABU1XfkM8A+j0+85JAGppt16cr1Whg6KIbb4okU6Mql6BOj+uup/wKeA=="
+      }
+    },
+    "npm:string-argv": {
+      "type": "npm",
+      "name": "npm:string-argv",
+      "data": {
+        "version": "0.3.2",
+        "packageName": "string-argv",
+        "hash": "sha512-aqD2Q0144Z+/RqG52NeHEkZauTAUWJO8c6yTftGJKO3Tja5tUgIfmIl6kExvhtxSDP7fXB6DvzkfMpCd/F3G+Q=="
       }
     },
     "npm:string-hash": {
@@ -23006,6 +23213,191 @@
     {
       "source": "npm:levn",
       "target": "npm:type-check",
+      "type": "static"
+    },
+    {
+      "source": "npm:lint-staged",
+      "target": "npm:commander@14.0.1",
+      "type": "static"
+    },
+    {
+      "source": "npm:lint-staged",
+      "target": "npm:listr2@9.0.4",
+      "type": "static"
+    },
+    {
+      "source": "npm:lint-staged",
+      "target": "npm:micromatch",
+      "type": "static"
+    },
+    {
+      "source": "npm:lint-staged",
+      "target": "npm:nano-spawn",
+      "type": "static"
+    },
+    {
+      "source": "npm:lint-staged",
+      "target": "npm:pidtree",
+      "type": "static"
+    },
+    {
+      "source": "npm:lint-staged",
+      "target": "npm:string-argv",
+      "type": "static"
+    },
+    {
+      "source": "npm:lint-staged",
+      "target": "npm:yaml",
+      "type": "static"
+    },
+    {
+      "source": "npm:ansi-escapes@7.1.1",
+      "target": "npm:environment",
+      "type": "static"
+    },
+    {
+      "source": "npm:cli-cursor@5.0.0",
+      "target": "npm:restore-cursor@5.1.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:cli-truncate@5.1.0",
+      "target": "npm:slice-ansi@7.1.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:cli-truncate@5.1.0",
+      "target": "npm:string-width@8.1.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:is-fullwidth-code-point@5.1.0",
+      "target": "npm:get-east-asian-width",
+      "type": "static"
+    },
+    {
+      "source": "npm:listr2@9.0.4",
+      "target": "npm:cli-truncate@5.1.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:listr2@9.0.4",
+      "target": "npm:colorette@2.0.20",
+      "type": "static"
+    },
+    {
+      "source": "npm:listr2@9.0.4",
+      "target": "npm:eventemitter3@5.0.1",
+      "type": "static"
+    },
+    {
+      "source": "npm:listr2@9.0.4",
+      "target": "npm:log-update@6.1.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:listr2@9.0.4",
+      "target": "npm:rfdc",
+      "type": "static"
+    },
+    {
+      "source": "npm:listr2@9.0.4",
+      "target": "npm:wrap-ansi@9.0.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:log-update@6.1.0",
+      "target": "npm:ansi-escapes@7.1.1",
+      "type": "static"
+    },
+    {
+      "source": "npm:log-update@6.1.0",
+      "target": "npm:cli-cursor@5.0.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:log-update@6.1.0",
+      "target": "npm:slice-ansi@7.1.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:log-update@6.1.0",
+      "target": "npm:strip-ansi@7.1.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:log-update@6.1.0",
+      "target": "npm:wrap-ansi@9.0.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:onetime@7.0.0",
+      "target": "npm:mimic-function",
+      "type": "static"
+    },
+    {
+      "source": "npm:restore-cursor@5.1.0",
+      "target": "npm:onetime@7.0.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:restore-cursor@5.1.0",
+      "target": "npm:signal-exit@4.1.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:slice-ansi@7.1.2",
+      "target": "npm:ansi-styles@6.2.3",
+      "type": "static"
+    },
+    {
+      "source": "npm:slice-ansi@7.1.2",
+      "target": "npm:is-fullwidth-code-point@5.1.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:string-width@8.1.0",
+      "target": "npm:get-east-asian-width",
+      "type": "static"
+    },
+    {
+      "source": "npm:string-width@8.1.0",
+      "target": "npm:strip-ansi@7.1.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:strip-ansi@7.1.2",
+      "target": "npm:ansi-regex@6.2.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:wrap-ansi@9.0.2",
+      "target": "npm:ansi-styles@6.2.3",
+      "type": "static"
+    },
+    {
+      "source": "npm:wrap-ansi@9.0.2",
+      "target": "npm:string-width@7.2.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:wrap-ansi@9.0.2",
+      "target": "npm:strip-ansi@7.1.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:string-width@7.2.0",
+      "target": "npm:emoji-regex@10.5.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:string-width@7.2.0",
+      "target": "npm:get-east-asian-width",
+      "type": "static"
+    },
+    {
+      "source": "npm:string-width@7.2.0",
+      "target": "npm:strip-ansi@7.1.2",
       "type": "static"
     },
     {

@@ -1,13 +1,13 @@
 {
-  "extends": "./tsconfig.base.json",
-  "compileOnSave": false,
-  "files": [],
-  "references": [
-    {
-      "path": "./apps/pm-podcast-e2e"
-    },
-    {
-      "path": "./apps/pm-podcast"
-    }
-  ]
+    "extends": "./tsconfig.base.json",
+    "compileOnSave": false,
+    "files": [],
+    "references": [
+        {
+            "path": "./apps/pm-podcast-e2e"
+        },
+        {
+            "path": "./apps/pm-podcast"
+        }
+    ]
 }
