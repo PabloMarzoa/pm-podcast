@@ -1,0 +1,230 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.5.3",
+  "pathMappings": {},
+  "nxJsonPlugins": [
+    {
+      "name": "@nx/js/typescript",
+      "options": {
+        "typecheck": {
+          "targetName": "typecheck"
+        },
+        "build": {
+          "targetName": "build",
+          "configName": "tsconfig.lib.json",
+          "buildDepsName": "build-deps",
+          "watchDepsName": "watch-deps"
+        }
+      }
+    },
+    {
+      "name": "@nx/react/router-plugin",
+      "options": {
+        "buildTargetName": "build",
+        "devTargetName": "dev",
+        "startTargetName": "start",
+        "watchDepsTargetName": "watch-deps",
+        "buildDepsTargetName": "build-deps",
+        "typecheckTargetName": "typecheck"
+      }
+    },
+    {
+      "name": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "lint"
+      }
+    },
+    {
+      "name": "@nx/vite/plugin",
+      "options": {
+        "buildTargetName": "build",
+        "testTargetName": "test",
+        "serveTargetName": "serve",
+        "devTargetName": "dev",
+        "previewTargetName": "preview",
+        "serveStaticTargetName": "serve-static",
+        "typecheckTargetName": "typecheck",
+        "buildDepsTargetName": "build-deps",
+        "watchDepsTargetName": "watch-deps"
+      }
+    },
+    {
+      "name": "@nx/cypress/plugin",
+      "options": {
+        "targetName": "e2e",
+        "openTargetName": "open-cypress",
+        "componentTestingTargetName": "component-test",
+        "ciTargetName": "e2e-ci"
+      }
+    }
+  ],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "eslint.config.mjs",
+        "hash": "8944620160701465"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "18165633744185414353"
+      },
+      {
+        "file": "nx.json",
+        "hash": "11280447595759075090"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "13046175384202504187"
+      },
+      {
+        "file": "vitest.workspace.ts",
+        "hash": "4665328684042819579"
+      },
+      {
+        "file": "package.json",
+        "hash": "10238622905747767229"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "3106917191778902710"
+      },
+      {
+        "file": "README.md",
+        "hash": "10724147826434951016"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "9925615288002122814"
+      }
+    ],
+    "projectFileMap": {
+      "@pm-podcast-nx/pm-podcast": [
+        {
+          "file": "apps/pm-podcast/eslint.config.mjs",
+          "hash": "8789163670399984295",
+          "deps": [
+            "npm:@nx/eslint-plugin"
+          ]
+        },
+        {
+          "file": "apps/pm-podcast/index.html",
+          "hash": "12246699738209291753"
+        },
+        {
+          "file": "apps/pm-podcast/package.json",
+          "hash": "4746079295296687220"
+        },
+        {
+          "file": "apps/pm-podcast/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/pm-podcast/src/app/app.module.scss",
+          "hash": "8887387885984320532"
+        },
+        {
+          "file": "apps/pm-podcast/src/app/app.spec.tsx",
+          "hash": "2514532946406014272",
+          "deps": [
+            "npm:@testing-library/react",
+            "npm:react-router-dom"
+          ]
+        },
+        {
+          "file": "apps/pm-podcast/src/app/app.tsx",
+          "hash": "398113246253880141",
+          "deps": [
+            "npm:react-router-dom"
+          ]
+        },
+        {
+          "file": "apps/pm-podcast/src/app/nx-welcome.tsx",
+          "hash": "2348102959109701629"
+        },
+        {
+          "file": "apps/pm-podcast/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/pm-podcast/src/main.tsx",
+          "hash": "6494962159756833686",
+          "deps": [
+            "npm:react",
+            "npm:react-router-dom",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/pm-podcast/src/styles.scss",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "apps/pm-podcast/tsconfig.app.json",
+          "hash": "8284732165986189960"
+        },
+        {
+          "file": "apps/pm-podcast/tsconfig.json",
+          "hash": "9240132813632071828"
+        },
+        {
+          "file": "apps/pm-podcast/tsconfig.spec.json",
+          "hash": "16305818908628027731"
+        },
+        {
+          "file": "apps/pm-podcast/vite.config.ts",
+          "hash": "16120233211438413237",
+          "deps": [
+            "npm:vite",
+            "npm:@vitejs/plugin-react"
+          ]
+        }
+      ],
+      "@pm-podcast-nx/pm-podcast-e2e": [
+        {
+          "file": "apps/pm-podcast-e2e/cypress.config.ts",
+          "hash": "7321307823774258356",
+          "deps": [
+            "npm:@nx/cypress",
+            "npm:cypress"
+          ]
+        },
+        {
+          "file": "apps/pm-podcast-e2e/eslint.config.mjs",
+          "hash": "7267301145493616340",
+          "deps": [
+            "npm:eslint-plugin-cypress"
+          ]
+        },
+        {
+          "file": "apps/pm-podcast-e2e/package.json",
+          "hash": "1425476417624044233"
+        },
+        {
+          "file": "apps/pm-podcast-e2e/src/e2e/app.cy.ts",
+          "hash": "11825518095361963950"
+        },
+        {
+          "file": "apps/pm-podcast-e2e/src/fixtures/example.json",
+          "hash": "11785586596216172004"
+        },
+        {
+          "file": "apps/pm-podcast-e2e/src/support/app.po.ts",
+          "hash": "11157016311132186162"
+        },
+        {
+          "file": "apps/pm-podcast-e2e/src/support/commands.ts",
+          "hash": "6408592624158157338"
+        },
+        {
+          "file": "apps/pm-podcast-e2e/src/support/e2e.ts",
+          "hash": "1054106023200826784"
+        },
+        {
+          "file": "apps/pm-podcast-e2e/tsconfig.json",
+          "hash": "13460915489313561609"
+        }
+      ]
+    }
+  },
+  "externalNodesHash": "17692855367092134801"
+}
