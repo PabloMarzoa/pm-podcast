@@ -1,21 +1,9 @@
 {
   "run": {
-    "command": "nx test pm-podcast",
-    "startTime": "2025-09-29T17:25:42.231Z",
-    "endTime": "2025-09-29T17:25:43.409Z",
+    "command": "nx serve pm-podcast",
+    "startTime": "2025-09-29T17:18:46.181Z",
+    "endTime": "2025-09-30T13:49:42.587Z",
     "inner": false
   },
-  "tasks": [
-    {
-      "taskId": "@pm-podcast-nx/pm-podcast:test",
-      "target": "test",
-      "projectName": "@pm-podcast-nx/pm-podcast",
-      "hash": "3566226432410755846",
-      "startTime": "2025-09-29T17:25:42.257Z",
-      "endTime": "2025-09-29T17:25:43.408Z",
-      "params": "",
-      "cacheStatus": "cache-miss",
-      "status": 0
-    }
-  ]
+  "tasks": []
 }

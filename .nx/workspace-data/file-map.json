@@ -63,18 +63,18 @@
       "@pm-podcast-nx/pm-podcast": [
         {
           "file": "apps/pm-podcast/eslint.config.mjs",
-          "hash": "8789163670399984295",
+          "hash": "11930889557737948531",
           "deps": [
             "npm:@nx/eslint-plugin"
           ]
         },
         {
           "file": "apps/pm-podcast/index.html",
-          "hash": "12246699738209291753"
+          "hash": "15296105978741546408"
         },
         {
           "file": "apps/pm-podcast/package.json",
-          "hash": "4746079295296687220"
+          "hash": "17692538302428539389"
         },
         {
           "file": "apps/pm-podcast/public/favicon.ico",
@@ -86,7 +86,7 @@
         },
         {
           "file": "apps/pm-podcast/src/app/app.spec.tsx",
-          "hash": "2514532946406014272",
+          "hash": "12897640730903289694",
           "deps": [
             "npm:@testing-library/react",
             "npm:react-router-dom"
@@ -94,14 +94,14 @@
         },
         {
           "file": "apps/pm-podcast/src/app/app.tsx",
-          "hash": "398113246253880141",
+          "hash": "15586301363877722665",
           "deps": [
             "npm:react-router-dom"
           ]
         },
         {
           "file": "apps/pm-podcast/src/app/nx-welcome.tsx",
-          "hash": "2348102959109701629"
+          "hash": "1555146592767043520"
         },
         {
           "file": "apps/pm-podcast/src/assets/.gitkeep",
@@ -109,7 +109,7 @@
         },
         {
           "file": "apps/pm-podcast/src/main.tsx",
-          "hash": "6494962159756833686",
+          "hash": "17352226660801061596",
           "deps": [
             "npm:react",
             "npm:react-router-dom",
@@ -122,19 +122,19 @@
         },
         {
           "file": "apps/pm-podcast/tsconfig.app.json",
-          "hash": "8284732165986189960"
+          "hash": "12844829549603434503"
         },
         {
           "file": "apps/pm-podcast/tsconfig.json",
-          "hash": "9240132813632071828"
+          "hash": "14831029636731619088"
         },
         {
           "file": "apps/pm-podcast/tsconfig.spec.json",
-          "hash": "16305818908628027731"
+          "hash": "96571761965984722"
         },
         {
           "file": "apps/pm-podcast/vite.config.ts",
-          "hash": "16120233211438413237",
+          "hash": "6181094255648099874",
           "deps": [
             "npm:vite",
             "npm:@vitejs/plugin-react"
@@ -144,7 +144,7 @@
       "@pm-podcast-nx/pm-podcast-e2e": [
         {
           "file": "apps/pm-podcast-e2e/cypress.config.ts",
-          "hash": "7321307823774258356",
+          "hash": "15497179914428300827",
           "deps": [
             "npm:@nx/cypress",
             "npm:cypress"
@@ -152,22 +152,22 @@
         },
         {
           "file": "apps/pm-podcast-e2e/eslint.config.mjs",
-          "hash": "7267301145493616340",
+          "hash": "8324009300279163357",
           "deps": [
             "npm:eslint-plugin-cypress"
           ]
         },
         {
           "file": "apps/pm-podcast-e2e/package.json",
-          "hash": "1425476417624044233"
+          "hash": "17615873728374364598"
         },
         {
           "file": "apps/pm-podcast-e2e/src/e2e/app.cy.ts",
-          "hash": "11825518095361963950"
+          "hash": "8018375012288852602"
         },
         {
           "file": "apps/pm-podcast-e2e/src/fixtures/example.json",
-          "hash": "11785586596216172004"
+          "hash": "8244047265829016264"
         },
         {
           "file": "apps/pm-podcast-e2e/src/support/app.po.ts",
@@ -175,7 +175,7 @@
         },
         {
           "file": "apps/pm-podcast-e2e/src/support/commands.ts",
-          "hash": "6408592624158157338"
+          "hash": "17450591918963037915"
         },
         {
           "file": "apps/pm-podcast-e2e/src/support/e2e.ts",
@@ -183,14 +183,14 @@
         },
         {
           "file": "apps/pm-podcast-e2e/tsconfig.json",
-          "hash": "13460915489313561609"
+          "hash": "15090727791549329986"
         }
       ]
     },
     "nonProjectFiles": [
       {
         "file": ".gitignore",
-        "hash": "13046175384202504187"
+        "hash": "2039389668121174134"
       },
       {
         "file": ".husky/pre-commit",
@@ -206,35 +206,35 @@
       },
       {
         "file": "README.md",
-        "hash": "10724147826434951016"
+        "hash": "3586490893236420658"
       },
       {
         "file": "eslint.config.mjs",
-        "hash": "8944620160701465"
+        "hash": "11671683896454915768"
       },
       {
         "file": "nx.json",
-        "hash": "11280447595759075090"
+        "hash": "15049832529469061746"
       },
       {
         "file": "package-lock.json",
-        "hash": "15754072555966342693"
+        "hash": "5320148377624792557"
       },
       {
         "file": "package.json",
-        "hash": "3949690694641075042"
+        "hash": "16203943919131335369"
       },
       {
         "file": "tsconfig.base.json",
-        "hash": "3106917191778902710"
+        "hash": "9023361526804205480"
       },
       {
         "file": "tsconfig.json",
-        "hash": "9925615288002122814"
+        "hash": "17061119980676303920"
       },
       {
         "file": "vitest.workspace.ts",
-        "hash": "4665328684042819579"
+        "hash": "17715460328298729942"
       }
     ]
   },
