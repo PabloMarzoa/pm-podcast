@@ -1,0 +1,26 @@
+import { useQuery } from '@tanstack/react-query';
+import { podcastDetailQuery } from './podcast-details-query';
+
+import { useSetEpisodesListSelector } from '../../../store/podcasts/podcasts.selectors';
+import { IEpisodesList } from '../../models/podcast/podcast.model';
+
+export const usePodcastDetails = (podcastId:string | number) => {
+  const setEpisodesListSelector = useSetEpisodesListSelector();
+  const {data, error, isFetching, isSuccess} = useQuery<IEpisodesList, Error, IEpisodesList>({
+    queryKey: ['podcast-details-load', podcastId],
+    queryFn: async () => {
+     const response = await podcastDetailQuery(podcastId);
+     setEpisodesListSelector(response);
+     return response;
+    },
+    staleTime: 24*60*60*1000,
+    gcTime: 25*60*60*1000
+  });
+
+  return {
+    data,
+    error,
+    isFetching,
+    isSuccess
+  };
+};

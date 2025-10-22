@@ -1,29 +1,17 @@
-import { Route, Routes, Link } from 'react-router-dom';
+import { Routes } from 'react-router-dom';
+import { renderRoutes } from './router/router.utils';
+import routes from './routing/route-config';
+import { PodcastStoreProvider } from '../store/podcasts/podcasts.store';
+import { PmDsHeader } from '@pm-ds-ui';
 
 export function App() {
     return (
         <div>
-            <Routes>
-                <Route
-                    path="/"
-                    element={
-                        <div>
-                            This is the generated root route.{' '}
-                            <Link to="/page-2">Click here for page 2.</Link>
-                        </div>
-                    }
-                />
-                <Route
-                    path="/page-2"
-                    element={
-                        <div>
-                            <Link to="/">
-                                Click here to go back to root page.
-                            </Link>
-                        </div>
-                    }
-                />
-            </Routes>
+            <PmDsHeader title="PM Podcast" titleClickHandler={()=>{ /* empty */ }}/>
+
+            <PodcastStoreProvider>
+                <Routes>{renderRoutes(routes)}</Routes>
+            </PodcastStoreProvider>
         </div>
     );
 }

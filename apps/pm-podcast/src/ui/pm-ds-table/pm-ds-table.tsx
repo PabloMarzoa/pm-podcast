@@ -1,7 +1,7 @@
 import {ReactNode} from 'react';
 import {IPmDsTableConfig} from './pm-ds-table.model';
 import styles from './pm-ds-table.module.scss';
-import { pmDsUtilsFieldFormatter } from '../../utils';
+import { pmDsUtilsFieldFormatter } from '../../app/utils';
 
 export function PmDsTable<T>({headers, headersTemplateStyle, data, onRowClickHandler}: IPmDsTableConfig<T>) {
   const handleRowClick = (selectedItem: T)=>{
