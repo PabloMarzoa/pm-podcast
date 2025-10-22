@@ -1,6 +1,6 @@
 import React, { ReactElement } from 'react';
 import styles from './pm-ds-header.module.scss';
-import { Pulse3Icon } from '../../../icons';
+import { Pulse3Icon } from '../../icons';
 
 export function PmDsHeader({title, showIcon=false, titleClickHandler}: {title: string, showIcon?: boolean, titleClickHandler: ()=>void}): ReactElement {
   const onTitleClick = ()=>{
