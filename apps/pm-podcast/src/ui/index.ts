@@ -2,4 +2,8 @@ export * from "./pm-ds-card/pm-ds-card";
 export * from "./pm-ds-header/pm-ds-header";
 export * from "./pm-ds-input/pm-ds-input-filter";
 export * from "./pm-ds-table/pm-ds-table";
+export * from "./pm-ds-table/pm-ds-table.model";
 export * from "./pm-ds-thumbnail/pm-ds-thumbnail";
+export * from "./box-title/BoxTitle";
+export * from "./loader/Loader";
+export * from "./no-results/NoResults";

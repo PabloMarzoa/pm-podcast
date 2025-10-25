@@ -1,7 +1,7 @@
 import {useNavigate} from 'react-router-dom';
 import React, {ReactElement, useState} from 'react';
 import styles from './PodcastsGrid.page.module.scss';
-import { useFilteredData } from '../../hooks/filtered-data/useFilteredData';
+import { useFilteredData } from '@hooks';
 import { usePodcastStore } from '@store';
 import { PmDsInputFilter, PmDsThumbnail } from '@pm-ds-ui';
 

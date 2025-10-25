@@ -34,6 +34,7 @@ export default defineConfig(() => ({
     resolve: {
         alias: {
         "@store": `${path.resolve(__dirname, "./src/store/index")}`,
+        "@hooks": `${path.resolve(__dirname, "./src/app/hooks/index")}`,
         "@pm-ds-ui": `${path.resolve(__dirname, "./src/ui/index")}`,
         },
     },

@@ -1,4 +1,4 @@
-import { TTimeFormats } from 'libs/utils/src';
+import { TTimeFormats } from "../../app/utils";
 
 export type TColumnFormats =
   | TTimeFormats
